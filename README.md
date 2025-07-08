@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @isabelledev2
-- 👀 I’m interested in traveling
+- 👋 Hi, I’m Isabelle
 - 🌱 I’m currently learning every day
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me: ibellwallace22@gmail.com
